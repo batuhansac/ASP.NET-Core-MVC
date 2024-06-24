@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "C#: MVC [http]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MVC\\MVC.csproj",
+            "launchConfigurationId": "TargetFramework=;http​"
+        }
+    ]
+}
